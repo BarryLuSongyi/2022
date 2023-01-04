@@ -15,3 +15,13 @@ A PSO for TSP.Using OX crossover for generating a new sprout.
 
 Simulated Annealing(SA)-TSP.py
 A SA for TSP.Using OX crossover for generating a new sprout.
+
+Imperialist Competitive Algorithm(ICA)-TSP.py
+An ICA for TSP. Didn't perform well. Just for my personal interest.
+
+Variable Neighbor Search(VNS)-TSP.py
+A VNS for TSP. Using four method to generate neighborhood and same method to do local search. 
+Random operator is not very good at this problem. Two-swap operator perform best in local search.
+
+Adapative Large Neighbor Search(ALNS)-TSP.py
+A ALNS for TSP. Using a SA technique to avoid local best. Not perform very well since a high temperature makes it not converge.
