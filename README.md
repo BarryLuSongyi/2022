@@ -2,7 +2,11 @@
 Including my works as a beginner on TSP.
 
 Oliver30.xlsx
-TSP dataset
+att48.xlsx
+ch150.xlsx
+eil51.xlsx
+eil76.xlsx
+TSP datasets
 
 Ant Colony Optimization(ACO)-TSP.py
 An ACO for TSP.Using a ant-cycle model with elite ants.
