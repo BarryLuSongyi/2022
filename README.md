@@ -1,13 +1,6 @@
 # TSP
 Including my works as a beginner on TSP.
 
-Oliver30.xlsx
-att48.xlsx
-ch150.xlsx
-eil51.xlsx
-eil76.xlsx
-TSP datasets
-
 Ant Colony Optimization(ACO)-TSP.py
 An ACO for TSP.Using a ant-cycle model with elite ants.
 
@@ -29,3 +22,6 @@ Random operator is not very good at this problem. Two-swap operator perform best
 
 Adapative Large Neighbor Search(ALNS)-TSP.py
 A ALNS for TSP. Using a SA technique to avoid local best. Not perform very well since a high temperature makes it not converge.
+
+Tabu Search(TS)-TSP.py
+A TS for TSP. Using two-opt and two-swap operator to exert local neighborhood search. It is currently the best algorithm for TSP among the algorithm given.
